@@ -17,5 +17,5 @@ library("Sleuth3")
 data("case0202")
 colsummarize(case0202)
 }
-\keyword{summary}
+\keyword{jcpackr}
 
