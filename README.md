@@ -25,3 +25,5 @@ devtools::install_github("j23414/jcpackr")
 library(jcpackr)
 ?cat_function
 ```
+
+Slightly modified R package instructions from [Writing an R Package From Scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/).
