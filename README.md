@@ -2,6 +2,21 @@ jcpackr
 --
 This is a collection of my commonly used functions.
 
+## Install jcpackr
+
+```
+library("devtools")
+devtools::install_github("j23414/jcpackr", build_vignettes=TRUE)
+library("jcpackr")
+
+browseVignettes("jcpackr")
+?cat_function
+```
+
+## Create an R package
+
+Notes to myself.
+
 ```
 # create a package
 install.packages(c("devtools","roxygen2"))
