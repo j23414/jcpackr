@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is a collection of my commonly used functions.
 
-```{r}
+```{r,eval=FALSE}
 # create a package
 install.packages(c("devtools","roxygen2"))
 library("devtools")
