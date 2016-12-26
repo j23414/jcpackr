@@ -15,8 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is a collection of my commonly used functions.
 
-
-
 ```{r}
 # create a package
 install.packages(c("devtools","roxygen2"))
@@ -32,7 +30,7 @@ document()
 devtools::build_vignettes() # Build vignette
 
 # install local version
-setwd("..")
+setwd("~/github/")
 install("jcpackr")
 ?cat_function
 
