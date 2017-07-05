@@ -1,3 +1,5 @@
+[![Travis-CI Build Status](https://travis-ci.org/j23414/jcpackr.svg?branch=master)](https://travis-ci.org/j23414/jcpackr)
+
 jcpackr
 --
 This is a collection of my commonly used functions.
